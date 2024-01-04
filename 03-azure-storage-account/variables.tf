@@ -25,7 +25,7 @@ variable "resource_group_name" {
 variable "storage_account_name" {
   description = "The name of the Storage Account to create."
   type        = string
-  default     = "gabrielmoyastterraformtraining"
+  default     = "gabrielmoyatfcourse"
 }
 
 variable "container_name" {
